@@ -1,0 +1,22 @@
+{
+  "name": "vue-blockrain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Blockrain.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uber1337mate/vue-blockrain.git"
+  },
+  "author": "uber1337",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uber1337mate/vue-blockrain/issues"
+  },
+  "homepage": "https://github.com/uber1337mate/vue-blockrain#readme",
+  "dependencies": {
+    "blockrain": "github:Aerolab/blockrain.js"
+  }
+}
